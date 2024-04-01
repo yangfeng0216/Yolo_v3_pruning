@@ -43,6 +43,8 @@ $$
 0)  数据准备
 [DATA](https://pan.baidu.com/s/1zQHmo4HZINV4MH79ARBRXA?pwd=4bj3)   提取码：4bj3
 ```
+0)  数据准备
+[DATA](https://pan.baidu.com/s/1zQHmo4HZINV4MH79ARBRXA?pwd=4bj3)   提取码：4bj3
 1） 稀疏化训练
 2） 常规剪枝
 	1. 设置剪切比率percent
