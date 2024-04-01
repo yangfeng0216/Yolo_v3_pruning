@@ -97,3 +97,8 @@ STE(Straight-through estimator) 直通估计器
 | 全16bit量化 | 81.87  |
 | 全8bit量化  | 80.64  |
 
+### 3. 权重分享  
+(https://pan.baidu.com/s/1tuHRoTh1fPoHuNax3dse-A?pwd=805p)
+提取码：805p 
+
+	
